@@ -1,0 +1,21 @@
+body{
+    background-color: #eee;
+}
+
+.fa{
+    color: skyblue;
+}
+
+.learn-more{
+    text-decoration: underline;
+}
+
+.box{
+    padding: 60px 5px;
+}
+
+.card{
+    background-color: white;
+    padding: 60px 2px;
+    margin: 30px 5px;
+}
